@@ -1,0 +1,2 @@
+# Fraud Detection System
+It is a hands-on practice of Apache Kafka which following this [tutorial](https://florimond.dev/blog/articles/2018/09/building-a-streaming-fraud-detection-system-with-kafka-and-python/)
